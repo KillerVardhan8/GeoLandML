@@ -5,14 +5,6 @@
 **Python**  
 ![TensorFlow](tensorflow_logo.png)  
 **TensorFlow**  
-![OpenCV](opencv_logo.png)  
-**OpenCV**  
-![NumPy](numpy_logo.png)  
-**NumPy**  
-![Matplotlib](matplotlib_logo.png)  
-**Matplotlib**  
-
-![Technologies Used](tech_banner.png)
 
 ## 📌 Project Overview
 This project focuses on developing a comprehensive system for **land zoning** using **satellite imagery** and **machine learning** techniques. The primary objective is to classify land areas based on their suitability for **barren land, water, and vegetation**. The approach involves advanced image processing and **Neural Network (NN)-based classification** to enhance land analysis accuracy, aiding in **data-driven land use planning** and **resource management**.
@@ -37,7 +29,7 @@ The images were processed through the following steps:
 ## 🏗 Model Development
 A **Neural Network (NN)** was developed using **TensorFlow**:
 - Trained on **labeled images** with **data augmentation** for better accuracy.
-- Uses **Convolutional Neural Networks (CNNs)** for feature extraction.
+- Uses **Neural Networks** for feature extraction.
 - **Evaluation Metrics**: Accuracy, Loss Function Calculation.
 
 ## 📊 Scoring & Visualization
@@ -72,4 +64,4 @@ This project is open-source under the **MIT License**.
 We welcome contributions! Feel free to open issues and submit PRs.
 
 ## 📬 Contact
-For queries, reach out via **[LinkedIn](https://www.linkedin.com/)** or **[GitHub](https://github.com/yourprofile)**.
+For queries, reach out via **[LinkedIn](https://www.linkedin.com/in/suryavardhan8)** or through mail - **suryavardhankarella@gmail.com**.
