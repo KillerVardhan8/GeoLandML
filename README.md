@@ -1,8 +1,18 @@
 # Land Zoning Using Satellite Imagery and Machine Learning
 
 ## 📷 Technology Logos
-![Python](Images/python-logo.png)  ![TensorFlow](Images/tensorflow.png)  
- **Python**                        **TensorFlow**                    
+
+<table>
+  <tr>
+    <td align="center"><img src="Images/python-logo.png" width="100"></td>
+    <td align="center"><img src="Images/tensorflow.png" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Python</strong></td>
+    <td align="center"><strong>TensorFlow</strong></td>
+  </tr>
+</table>
+            
  
 
 ## 📌 Project Overview
