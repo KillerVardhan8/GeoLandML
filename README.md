@@ -28,7 +28,7 @@ This project extends ongoing research work, which has been recognized and accept
 ## 📥 Data Collection
 Satellite images are collected from:
 - **Sentinel Hub**: Offers real-time satellite imagery.
-- **Kaggle Open-Source Dataset**: A publicly available dataset used for training and evaluation. [Click here to access the dataset](dataset_link_here).
+- **Kaggle Open-Source Dataset**: A publicly available dataset used for training and evaluation. [Click here to access the dataset](https://www.kaggle.com/datasets/requiemonk/sentinel12-image-pairs-segregated-by-terrain) and  [Click here to access the dataset](https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies).
 
 ## 🛠 Data Preprocessing
 The images were processed through the following steps:
