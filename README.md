@@ -1,6 +1,6 @@
 # Land Zoning Using Satellite Imagery and Machine Learning
 
-## 📷 Technology Logos
+## 📷 Tools Utilized
 
 <table>
   <tr>
