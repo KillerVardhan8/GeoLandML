@@ -1,10 +1,9 @@
 # Land Zoning Using Satellite Imagery and Machine Learning
 
 ## 📷 Technology Logos
-![Python](Images/python-logo.png)  
-**Python**  
-![TensorFlow](Images/tensorflow.png)  
-**TensorFlow**  
+![Python](Images/python-logo.png)  ![TensorFlow](Images/tensorflow.png)  
+ **Python**                        **TensorFlow**                    
+ 
 
 ## 📌 Project Overview
 This project focuses on developing a comprehensive system for **land zoning** using **satellite imagery** and **machine learning** techniques. The primary objective is to classify land areas based on their suitability for **barren land, water, and vegetation**. The approach involves advanced image processing and **Neural Network (NN)-based classification** to enhance land analysis accuracy, aiding in **data-driven land use planning** and **resource management**.
